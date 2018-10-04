@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin: 50px auto;
+}
+.title{
+    text-align: center;
+}
+form{
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+form div.col-md-3{
+    text-align: right;
+    line-height: 38px;
+}
+form div.col-md-4{
+    background: #ccc;
+    padding: 0 25px;
+}
+form div.col-md-4 li{
+    font-style: italic;
+}
+form div.col-md-4 b{
+    text-decoration: underline;
+    font-style: italic;
+}
+.output{
+    margin-top: 10px;
+    color: red;
+    font-style: italic;
+}
